@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+Today is the first day I'm starting coding!
+
